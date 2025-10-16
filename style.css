@@ -1,0 +1,91 @@
+h1{text-align: center;
+color: rgba(220, 209, 195, 0.966);
+}
+ul {font:size 200%;}
+h4{border-style:inset;
+border-color:gray;
+border-width: 8px;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom, #f9f6f3, #f1e5dc);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  max-width: 900px;
+  background: #fff;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+header {
+  text-align: center;
+  border-bottom: 2px solid #d8bfa7;
+  padding-bottom: 20px;
+}
+
+h1 {
+  color: #7a5c3c;
+  font-size: 2.2em;
+  margin-bottom: 10px;
+}
+
+.foto {
+  width: 150px;
+  border-radius: 10px;
+  margin: 10px 0;
+  border: 3px solid #d8bfa7;
+}
+
+.email {
+  font-size: 1.1em;
+}
+
+.email a {
+  color: #7a5c3c;
+  text-decoration: none;
+}
+
+.email a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  color: #7a5c3c;
+  border-left: 6px solid #d8bfa7;
+  padding-left: 10px;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+  font-size: 1.1em;
+}
+
+section p {
+  font-size: 1em;
+  margin-top: 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 1em;
+  color: #7a5c3c;
+}
+
+footer a {
+  color: #7a5c3c;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
